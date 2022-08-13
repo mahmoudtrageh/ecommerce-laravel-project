@@ -1,0 +1,30 @@
+<?php
+
+return [
+
+    'cart' => 'Cart',
+    'wishlist' => 'Wishlist',
+    'order-tracking' => 'Order Tracking',
+    'logout' => 'Logout',
+    'copyright' => 'Copyright',
+    'show-cart' => 'Show Cart',
+    'welcome-back' => 'Welcome Back',
+	'login-facebook' => 'Login With Facebook',
+	'email' => 'Email',
+	'password' => 'Password',
+	'forget-password' => 'Forget Password',
+	'login' => 'Login',
+	'dont-have-account' => 'Don\'t Have Account',
+	'register' => 'Register',
+	'register-account' => 'Register Account',
+	'firstname' => 'First Name',
+	'lastname' => 'Last Name',
+	'phone' => 'Phone',
+	'password-confirmation' => 'Password Confirmation',
+	'have-account' => 'Have Account',
+    'or' => 'Or',
+    'track-your-order' => 'Track Your Order',
+	'invoice-number' => 'Invoice Number',
+	'track-now' => 'Track Now',
+    'home' => 'Home',
+];
